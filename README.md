@@ -1,8 +1,8 @@
 # An Image Dehazing Network Based on Adaptive Aggregation of Features and Multi-scale Attention
-* Created by Qiuyue Fu, bohui Li, Hang Sun, Zhiping Dan from Department of Computer and Information, China Three Gorges University.*
+* Created by Qiuyue Fu, Bohui Li, Hang Sun, Zhiping Dan from Department of Computer and Information, China Three Gorges University.*
 
 ## Introduction
-Our paper proposes an MFINEA dehazing network. The proposed network includes an adaptive hierarchical feature fusion module and a multi-scale attention module.
+Our paper proposes an AAFMAN dehazing network. The proposed network includes an adaptive hierarchical feature fusion module and a multi-scale attention module.
 
 ## Prerequisites
 Pytorch 1.8.0
