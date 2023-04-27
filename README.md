@@ -5,10 +5,10 @@
 Our paper proposes an AAFMAN dehazing network. The proposed network includes an adaptive hierarchical feature fusion module and a multi-scale attention module.
 
 ## Prerequisites
-  Pytorch 1.8.0
-  Python 3.7.1
-  CUDA 11.7
-  Ubuntu 18.04
+Pytorch 1.8.0  
+Python 3.7.1  
+CUDA 11.7  
+Ubuntu 18.04  
 
 ## Test:
 The Download path of [RESIDE](https://sites.google.com/view/reside-dehaze-datasets) dataset. the Download path of [Densehaze](https://data.vision.ee.ethz.ch/cvl/ntire19//dense-haze/) dataset. the Download path of [Nhhaze](https://data.vision.ee.ethz.ch/cvl/ntire21/) dataset . The Download path of [haze1k](https://www.dropbox.com/s/k2i3p7puuwl2g59/Haze1k.zip?dl=0) dataset. You can [Download](https://pan.baidu.com/s/12AK9iAMQ2xu7wq4gLuTNcg) the pre-training model through Baidu Netdisk.The extract the code is uugp.
