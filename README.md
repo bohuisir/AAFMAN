@@ -16,14 +16,17 @@ The Download path of [RESIDE](https://sites.google.com/view/reside-dehaze-datase
 ## Test the model:
 ### Test outdoor datasets:
 
-```python test.py --data_dir 'your input results file' --model 'your weight file' --model_save_dir 'your save results file' --padding True
+```
+python test.py --data_dir 'your input results file' --model 'your weight file' --model_save_dir 'your save results file' --padding True
 ```
 ### Test other datasets:
 
-```python test.py --data_dir 'your input results file' --model 'your weight file' --model_save_dir 'your save results file'
+```
+python test.py --data_dir 'your input results file' --model 'your weight file' --model_save_dir 'your save results file'
 ```
 
 ## Cal PSNR and SSIM:
 
-```python measure.py
+```
+python measure.py
 ```
